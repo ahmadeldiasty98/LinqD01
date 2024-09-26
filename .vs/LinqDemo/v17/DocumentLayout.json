@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\courses\\Back-end .net eraasoft\\3-Entity Framework \u0026 Linq\\D03\\practice\\LinqDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A27DDA0-2B80-4FA9-B74A-26571B5A5442}|LinqDemo.csproj|h:\\courses\\back-end .net eraasoft\\3-entity framework \u0026 linq\\d03\\practice\\linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A27DDA0-2B80-4FA9-B74A-26571B5A5442}|LinqDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\courses\\Back-end .net eraasoft\\3-Entity Framework \u0026 Linq\\D03\\practice\\LinqDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\courses\\Back-end .net eraasoft\\3-Entity Framework \u0026 Linq\\D03\\practice\\LinqDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:54:54.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
